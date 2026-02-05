@@ -1,0 +1,2 @@
+# mydiscordbot2
+bot
