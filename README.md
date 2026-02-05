@@ -1,2 +1,4 @@
-# mydiscordbot2
-bot
+# TutorialBot
+
+to be updated
+
